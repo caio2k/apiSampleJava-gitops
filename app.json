@@ -1,0 +1,20 @@
+{
+  "name": "apiSampleJava-gitops",
+  "description": "A java sample api using Docker",
+  "repository": "https://github.com/caio2k/apisamplejava-gitops",
+  "keywords": ["java", "docker"],
+  "stack": "container",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
+
