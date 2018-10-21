@@ -1,1 +1,1 @@
-FROM caio2k/apisamplejava:latest
+FROM caio2k/apisamplejava:1.0.0
