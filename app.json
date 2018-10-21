@@ -1,0 +1,15 @@
+{
+  "name": "apiSampleJava-gitops",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
